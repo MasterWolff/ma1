@@ -5,9 +5,8 @@
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+| Mads Wolff Strand | 153284 |
+
 
 ***
 
